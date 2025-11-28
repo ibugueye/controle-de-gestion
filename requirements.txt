@@ -1,1 +1,9 @@
-streamlit 
+streamlit
+plotly
+pandas
+numpy as np
+plotly.express as px
+plotly.graph_objects as
+time
+hashlib
+math
