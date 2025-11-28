@@ -1,9 +1,8 @@
 streamlit
 plotly
 pandas
-numpy as np
-plotly.express as px
-plotly.graph_objects as
+numpy
+
 time
 hashlib
 math
