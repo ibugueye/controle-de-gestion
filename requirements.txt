@@ -3,6 +3,4 @@ plotly
 pandas
 numpy
 
-time
-hashlib
-math
+ 
